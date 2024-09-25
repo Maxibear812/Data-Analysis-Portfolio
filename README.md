@@ -1,6 +1,3 @@
-# Data-Analysis-Portfolio
-Data-Analysis-Portfolio
-
 # Michael Tucker - Data Analysis Portfolio
 
 ## About Me
